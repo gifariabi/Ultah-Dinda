@@ -13,10 +13,10 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajaraldev/happybirthday
+    $ git clone https://github.com/gifariabi/Ultah-Dinda
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd Ultah-Dinda
 
     # Open with your text editor
     $ code .
